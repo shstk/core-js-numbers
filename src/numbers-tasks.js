@@ -6,7 +6,6 @@
  * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math     *
  *                                                                                           *
  ******************************************************************************************* */
-/* eslint-disable */
 /**
  * Returns an area of a rectangle given by width and height.
  *
